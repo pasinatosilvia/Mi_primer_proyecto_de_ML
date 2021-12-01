@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# carpeta con csv original, de 130000 registros y checkpoints del modelo
+scr/data/raw/
+scr/models/checkpoints_TRAIN_modelo/
