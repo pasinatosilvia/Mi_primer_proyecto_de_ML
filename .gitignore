@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # carpeta con csv original, de 130000 registros y checkpoints del modelo
-scr/data/raw/
-scr/models/checkpoints_TRAIN_modelo/
+/scr/data/raw/winemag-data-130k-v2.csv
+/scr/models/checkpoints_TRAIN_modelo/
